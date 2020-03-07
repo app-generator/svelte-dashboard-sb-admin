@@ -13,6 +13,7 @@ Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sap
 
 ## Dashboard Links
 
+- [SB-Admin-Svelte](https://github.com/app-generator/svelte-dashboard-sb-admin) - the original starter
 - [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) - LIVE Demo
 - Svelte Dashboard SB Admin Docs - @WIP by AppSeed
 - Svelte Dashboard SB Admin Product Page - @WIP by AppSeed
@@ -27,16 +28,18 @@ Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sap
 
 ### Clone
 
-    git clone git@github.com:GeekyAnts/sb-admin-svelte.git
+```bash
+$ git clone https://github.com/app-generator/svelte-dashboard-sb-admin.git
+```
 
 ### Running the project
 
 However you get the code, you can install dependencies and run the project in development mode with:
 
 ```bash
-cd sb-admin-svelte
-npm install # or yarn
-npm run dev
+$ cd svelte-dashboard-sb-admin
+$ npm install # or yarn
+$ npm run dev
 ```
 
 Open up [localhost:3000](http://localhost:3000) and start clicking around.
