@@ -103,5 +103,7 @@ now
 
 If your app can't be exported to a static site, you can use the [now-sapper](https://github.com/thgh/now-sapper) builder. You can find instructions on how to do so in its [README](https://github.com/thgh/now-sapper#basic-usage).
 
+<br />
+
 ---
 [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
