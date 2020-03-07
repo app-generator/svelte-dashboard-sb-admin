@@ -1,12 +1,26 @@
-# SB-Admin-Svelte
+# [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/)
 
-A dashboard made by using Svelte and Sapper, inspired from SB-Admin Dashboard.
+Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sapper](https://sapper.svelte.dev/), inspired from **SB-Admin Dashboard**.
 
-## Preview
+## Dashboard Features
 
-![Dashboard](static/dashboard-demo.gif)
+- JS Framework: [Svelte](https://svelte.dev/), [Sapper](https://sapper.svelte.dev/)
+- UI Kit: [SvelteStrap](https://github.com/bestguy/sveltestrap) - Bootstrap4 components for Svelte v3
+- Design Credit: [SB Admin](https://startbootstrap.com/templates/sb-admin/) by **StartBootstrap**
+- **MIT License**
 
-Check the live demo **[here](https://objective-benz-e53b25.netlify.com/)**
+## Dashboard Links
+
+- Source Code: this repository
+- [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) 
+- Svelte Dashboard SB Admin Docs - @WIP by AppSeed
+- Svelte Dashboard SB Admin Product Page - @WIP by AppSeed
+
+<br />
+
+![Svelte Dashboard SB Admin - Open-Source Admin Dashboard coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-dashboard-sb-admin-intro.gif)
+
+<br />
 
 ## Getting started
 
