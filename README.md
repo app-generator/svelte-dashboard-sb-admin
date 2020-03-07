@@ -11,8 +11,7 @@ Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sap
 
 ## Dashboard Links
 
-- Source Code: this repository
-- [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) 
+- [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) - LIVE Demo
 - Svelte Dashboard SB Admin Docs - @WIP by AppSeed
 - Svelte Dashboard SB Admin Product Page - @WIP by AppSeed
 
