@@ -9,6 +9,8 @@ Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sap
 - Design Credit: [SB Admin](https://startbootstrap.com/templates/sb-admin/) by **StartBootstrap**
 - **MIT License**
 
+<br />
+
 ## Dashboard Links
 
 - [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) - LIVE Demo
